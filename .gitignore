@@ -9,6 +9,7 @@ config.log
 config.status
 .deps/
 .libs/
+/autom4te.cache
 /faad2.spec
 /libtool
 /stamp-h1
