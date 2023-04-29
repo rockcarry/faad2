@@ -1,0 +1,17 @@
+!.gitignore
+*.a
+*.o
+*.la
+*.lo
+Makefile
+config.h
+config.log
+config.status
+.deps/
+.libs/
+/faad2.spec
+/libtool
+/stamp-h1
+/frontend/faad
+/_install/
+
