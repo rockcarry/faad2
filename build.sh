@@ -8,6 +8,8 @@ case "$1" in
         ./configure \
         --host=$BUILD_HOST \
         --prefix=$PROJ_INSTALL_DIR \
+        --disable-shared \
+        --enable-static \
         --without-xmms \
         --without-drm \
         --without-mpeg4ip
