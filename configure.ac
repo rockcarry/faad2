@@ -163,6 +163,7 @@ AC_CONFIG_FILES(plugins/xmms/Makefile)
 AC_CONFIG_FILES(plugins/xmms/src/Makefile)
 AC_CONFIG_FILES(plugins/mpeg4ip/Makefile)
 AC_CONFIG_FILES(faad2.spec)
+AC_CONFIG_FILES(faad2.pc)
 AC_CONFIG_FILES(frontend/Makefile)
 AC_CONFIG_FILES(Makefile)
 

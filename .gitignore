@@ -11,6 +11,7 @@ config.status
 .libs/
 /autom4te.cache
 /faad2.spec
+/faad2.pc
 /libtool
 /stamp-h1
 /frontend/faad

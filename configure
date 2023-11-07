@@ -17736,6 +17736,8 @@ ac_config_files="$ac_config_files plugins/mpeg4ip/Makefile"
 
 ac_config_files="$ac_config_files faad2.spec"
 
+ac_config_files="$ac_config_files faad2.pc"
+
 ac_config_files="$ac_config_files frontend/Makefile"
 
 ac_config_files="$ac_config_files Makefile"
@@ -18883,6 +18885,7 @@ do
     "plugins/xmms/src/Makefile") CONFIG_FILES="$CONFIG_FILES plugins/xmms/src/Makefile" ;;
     "plugins/mpeg4ip/Makefile") CONFIG_FILES="$CONFIG_FILES plugins/mpeg4ip/Makefile" ;;
     "faad2.spec") CONFIG_FILES="$CONFIG_FILES faad2.spec" ;;
+    "faad2.pc") CONFIG_FILES="$CONFIG_FILES faad2.pc" ;;
     "frontend/Makefile") CONFIG_FILES="$CONFIG_FILES frontend/Makefile" ;;
     "Makefile") CONFIG_FILES="$CONFIG_FILES Makefile" ;;
 
